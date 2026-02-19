@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td>Model Conversion</td>
-<td><a href="01-intro-3d-representations/notebook.ipynb">notebook</a></td>
+<td><a href="https://colab.research.google.com/drive/1x4xvkpK1sOkmAY28LgKVBrOzImnufbLK?usp=sharing">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">2</td>
