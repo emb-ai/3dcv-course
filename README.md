@@ -46,11 +46,11 @@
 <td rowspan="2">3</td>
 <td rowspan="2">Feb 26</td>
 <td>Multi-view Geometry</td>
-<td><!--<a href="03-multiview-geometry/slides.pdf">slides</a>--></td>
+<td><a href="03-multiview-geometry/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td>TBD</td>
-<td><!--<a href="03-multiview-geometry/notebook.ipynb">notebook</a>--></td>
+<td>Fundamental Matrix & RANSAC</td>
+<td><a href="https://colab.research.google.com/drive/1bM-kQK9IJWGYsN1bEOWimw_8lpHt9QVE?usp=sharing">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">4</td>

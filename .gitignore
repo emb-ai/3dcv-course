@@ -1,0 +1,15 @@
+# Scenario files (internal use only)
+**/SCENARIO*.md
+
+# Local notebooks (use Colab links instead)
+03-multiview-geometry/notebook.ipynb
+03-multiview-geometry/seminar_03_multiview_geometry.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
