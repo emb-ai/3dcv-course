@@ -56,21 +56,21 @@
 <td rowspan="2">4</td>
 <td rowspan="2">Mar 5</td>
 <td>SLAM and SfM</td>
-<td><!--<a href="04-slam-sfm/slides.pdf">slides</a>--></td>
+<td><a href="04-slam-sfm/slides.pdf">slides</a></td>
 </tr>
 <tr>
 <td>COLMAP for Reconstruction</td>
-<td><!--<a href="04-slam-sfm/notebook.ipynb">notebook</a>--></td>
+<td><a href="https://colab.research.google.com/drive/1JQdVjeyhxBdSK9HBohQhP8TAiKaiLjQ-?usp=sharing">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">5</td>
 <td rowspan="2">Mar 12</td>
 <td>Depth Estimation</td>
-<td><!--<a href="05-depth-estimation/slides.pdf">slides</a>--></td>
+<td><a href="05-depth-estimation/slides.pdf">slides</a></td>
 </tr>
 <tr>
-<td>TBD</td>
-<td><!--<a href="05-depth-estimation/notebook.ipynb">notebook</a>--></td>
+<td>Depth Estimation Practice</td>
+<td><a href="https://colab.research.google.com/drive/1fLyyHErHRAX6u8dIET69zm8rIDkVYXaj?usp=sharing">notebook</a></td>
 </tr>
 <tr>
 <td rowspan="2">6</td>
